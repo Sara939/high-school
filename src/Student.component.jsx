@@ -12,7 +12,6 @@ class Student extends Component {
                 <h5>{this.props.date}</h5>
                 <img src={this.props.pic} alt=""/>
 
-
             </div>
         )
 
